@@ -10,7 +10,7 @@ namespace DAL_Generic
     {
         public int countFacilities()
         {
-            return 12;
+            return 7;
         }
         public string curse()
         {
