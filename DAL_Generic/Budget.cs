@@ -16,5 +16,9 @@ namespace DAL_Generic
         {
             return "Thunder!";
         }
+        public float pi()
+        {
+            return 3.1415926536F;
+        }
     }
 }
